@@ -4,4 +4,6 @@ num3=30
 '天下武功出少林'
 zhangsan
 manager
-num = 20
+num = 2
+
+num4 = 110
