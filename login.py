@@ -5,3 +5,5 @@ num3=30
 zhangsan
 manager
 num = 20
+
+num4 = 110
